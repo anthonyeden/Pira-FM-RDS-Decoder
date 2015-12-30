@@ -1,0 +1,13 @@
+{
+    "serialport": "COM1",
+    "baudrate": 19200,
+    "RDS_HoldSecs": 6,
+    "RDS_Timeout": 20,
+    "Stations": [
+        {
+            "name": "Hope 103.2",
+            "freq": "103200",
+            "uploadurl": "http://example.com/rds.php?station=hope1032"
+        }
+    ]
+}
